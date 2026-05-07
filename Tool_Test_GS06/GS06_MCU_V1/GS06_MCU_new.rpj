@@ -6,7 +6,7 @@
   <Device>RL78G23</Device>
   <OperationTab>
     <Endian>RFLG_ENDIAN_LITTLE</Endian>
-    <ProgramFile>C:\Users\ADMIN\OneDrive\Desktop\firmware GS06_V2\V2.1.0.13.0\ed\GS212_V2.2.0(Smoke Orena).hex</ProgramFile>
+    <ProgramFile>C:\Users\ADMIN\OneDrive\Desktop\firmware GS06_V2\V2.1.1.0.0\ed\GS112_V3.0.7(Heat).hex</ProgramFile>
   </OperationTab>
   <OperationSettingTab>
     <FillCode>False</FillCode>
